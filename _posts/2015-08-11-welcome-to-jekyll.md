@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wlcome to my lalalal "
+title:  "jekyll Template "
 date:   2015-08-11 22:13:41
 categories: jekyll update
 ---
